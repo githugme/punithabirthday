@@ -1,0 +1,124 @@
+body{
+  background-color: #ffcbcb;
+  font-family: 'Indie Flower', cursive;
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 7em;
+  color: white;
+}
+section{
+  background-image: url("C:\Users\COYG\Desktop\Web development\HBD\picOne.jpeg");
+}
+h2{
+  /* font-family: 'Indie Flower', cursive;
+  font-size: 3em;
+  color: white; */
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.3em;
+  color: #fe7171;
+  margin: 0px 30px;
+}
+
+h3{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2em;
+  color: white;
+}
+
+hr{
+  border: dotted white 10px;
+  border-bottom: none;
+  width: 6%;
+  margin: 5px auto;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.2em;
+  color: #fe7171;
+  margin: 0px 30px;
+}
+
+
+.allDivisions{
+  text-align: center;
+  line-height: 1;
+}
+
+.wishes{
+  font-size: 30px;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.wishdivision{
+  background: url("MainPicture.jpeg");
+  background-size: 1100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  height: 700px;
+  padding: 200px 0px;
+}
+
+.introDivision{
+  padding: 200px 0px;
+}
+
+.mainDivision{
+  padding: 200px 0px;
+  background-color: #ffcbcb;
+}
+
+.bottomDivision{
+  padding: 200px 0px;
+  background-color: #ffcbcb;
+}
+
+.inlineBlockZero{
+  margin-bottom: 80px;
+}
+
+#sentenceOne{
+  margin-bottom: 100px;
+}
+
+.inlineBlockOne{
+  display: inline-block;
+}
+
+.inlineBlockTwo{
+  display: inline-block;
+}
+
+.inlineBlockThree{
+  display: inline-block;
+}
+
+.inlineBlockFour{
+  display: inline-block;
+}
+
+.lastBlock{
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+.inlineBlockReal{
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+.setOne{
+  display: inline-block;
+  padding: 0px 50px;
+}
+
+.setThree{
+  display: inline-block;
+  padding: 0px 50px;
+}
+.bday,p{
+  font-weight: bolder;
+}
